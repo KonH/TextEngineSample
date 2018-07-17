@@ -1,0 +1,3 @@
+[submodule "TextEngine"]
+	path = TextEngine
+	url = https://github.com/KonH/TextEngine.git
